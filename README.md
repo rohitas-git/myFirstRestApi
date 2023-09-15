@@ -1,5 +1,5 @@
 # myFirstRestApi
-Rest api with NodeJs and Express (with guidance from Programming with Mosh youtube channel) <br>
+Rest api made with NodeJs and Express (with guidance from Programming with Mosh youtube channel) <br>
 
 
 # Knowledge learned about Rest-API <br>
